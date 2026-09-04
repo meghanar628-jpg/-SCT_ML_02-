@@ -1,4 +1,3 @@
-@@ -0,0 +1,79 @@
 # K-Means Customer Segmentation
 
 ## Project Overview
@@ -46,7 +45,7 @@ KMeans-Clustering/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/nadavigowda13/KMeans-Clustering.git
+git clone https://github.com/meghanar628_jpg/kMeans-Clustering.git
 ```
 
 ### 2. Navigate to the project folder
