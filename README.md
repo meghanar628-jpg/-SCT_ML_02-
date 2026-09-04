@@ -45,7 +45,7 @@ KMeans-Clustering/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/meghanar628_jpg/kMeans-Clustering.git
+git clone https://github.com/meghanar628-jpg/-SCT_ML_02-.git
 ```
 
 ### 2. Navigate to the project folder
